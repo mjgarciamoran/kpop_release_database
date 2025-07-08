@@ -34,8 +34,10 @@ This enthusiasm leads to the creation of community-driven platforms like [kpoppi
 - **Time Range**: I’m currently only tracking analytics for videos released from 2022 onward due to YouTube API quota limitations. 
   - Even though I could request a larger quota, daily tracking is most valuable shortly after a video’s release, when metrics change quickly. Older videos tend to plateau, and a one-time snapshot of their stats is usually sufficient.
 
+<!--
 - **Release Dates vs. Analytics Start Dates**:  
-  The first day a video appears in the analytics dataset does **not** necessarily correspond to its actual release date.  
+  - It is worth noting that the first day a video appears in the analytics dataset does **not** necessarily correspond to its actual release date.  
   To determine the true release date, cross-reference with the corresponding CSVs in `video_data/`.
+-->
 
 ---
