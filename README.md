@@ -31,7 +31,7 @@ This enthusiasm leads to the creation of community-driven platforms like [kpoppi
 
 ## Considerations
 
-- **Time Range**: I’m currently only tracking analytics for videos released from 2022 onward due to YouTube API quota limitations. 
+- **Time Range**: I’m currently only tracking analytics for videos released from three years ago and onward due to YouTube API quota limitations. 
   - Even though I could request a larger quota, daily tracking is most valuable shortly after a video’s release, when metrics change quickly. Older videos tend to plateau, and a one-time snapshot of their stats is usually sufficient.
 
 <!--
