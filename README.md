@@ -1,6 +1,6 @@
 # K-Pop Release Database with Daily Analytics
 
-This repository contains the results of my data-fetching project focused on K-pop releases. The motivation behind this project is to collect high-frequency time series data—specifically, daily YouTube analytics.
+This repository contains the results of my data-fetching project focused on K-pop releases. The motivation behind this project is to collect high-frequency time series data; specifically, daily YouTube analytics.
 
 ---
 
