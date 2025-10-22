@@ -33,6 +33,7 @@ This enthusiasm leads to the creation of community-driven platforms like [kpoppi
 
 - **Time Range**: I’m currently only tracking analytics for videos released from three years ago and onward due to YouTube API quota limitations. 
   - Even though I could request a larger quota, daily tracking is most valuable shortly after a video’s release, when metrics change quickly. Older videos tend to plateau, and a one-time snapshot of their stats is usually sufficient.
+  - On October 17th 2025, an internal change in the naming convention of the website caused my scripts to detect all previous entries as new ones. This overloaded the system and caused fragmentation errors that prevented data to be fetched for 5 consecutive days: 251017, 251018, 251019, 251020, 251021.
 
 <!--
 - **Release Dates vs. Analytics Start Dates**:  
