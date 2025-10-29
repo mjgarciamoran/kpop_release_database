@@ -1,12 +1,12 @@
 # K-Pop Release Database with Daily Analytics
 
-This repository contains the results of my data-fetching project focused on K-pop releases. The motivation behind this project is to collect high-frequency time series data; specifically, daily YouTube analytics.
+This repository contains the results of my data-fetching project focused on K-Pop releases. The motivation behind this project is to collect high-frequency time series data; specifically, daily YouTube analytics.
 
 ---
 
 ## Why K-Pop?
 
-K-pop is a music genre originating in South Korea that blends styles such as pop, hip-hop, and R&B. It differs from Western pop music in several ways—both musically and culturally. One key reason K-pop is particularly well-suited for this kind of project is the intense fan engagement: fans are highly motivated to track new releases, whether to support their favorite artists or to discover new ones.
+K-Pop is a music genre originating in South Korea that blends styles such as pop, hip-hop, and R&B. It differs from Western pop music in several ways—both musically and culturally. One key reason K-Pop is particularly well-suited for this kind of project is the intense fan engagement: fans are highly motivated to track new releases, whether to support their favorite artists or to discover new ones.
 
 This enthusiasm leads to the creation of community-driven platforms like [kpopping.com](https://kpopping.com), where users regularly post information about upcoming releases. These platforms provide a valuable, crowd-sourced dataset that can be used to monitor trends and activity.
 
