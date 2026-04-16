@@ -521,7 +521,7 @@ Yuna,2026-ice-cream-2,/musicalbums/2026-ice-cream-2,260323,x0FwbTiD3iA,mini_albu
 ITZY,2026-ice-cream-4,/musicalbums/2026-ice-cream-4,260323,,mini_album,JYP Entertainment,74e82ea1-e5d3-4083-bf06-3d6a3709bb13
 Yuna,2026-ice-cream-5,/musicalbums/2026-ice-cream-5,260323,,ep,JYP Entertainment,d70564b8-87ec-42ce-bcbd-a12afed5054e
 Moonbyul,2026-rev,/musicalbums/2026-rev,260325,pLKOEfMc09E,single,RBW Entertainment,bc78d4d4-60c2-4be8-89c9-8d19606cf232
-ARISE,2026-reboot,/musicalbums/2026-reboot,260326,,single,BY-U Entertainment,e8f4f387-056c-4c03-be78-cb98bc98038e
+ARISE,2026-reboot,/musicalbums/2026-reboot,260326,t2gJ2szo-60,single,BY-U Entertainment,e8f4f387-056c-4c03-be78-cb98bc98038e
 EL CAPITXN,2026-diary-breaking-through,/musicalbums/2026-diary-breaking-through,260326,qg4KF1DQuuk,single,,8c24f337-179e-4a0c-9ce7-1b7f7b45f96f
 So Soo Bin,2026-every,/musicalbums/2026-every,260326,2_tA7-GQH1A,single,Camwus,1fb02e0e-587b-4384-9230-9e9b045adc46
 Yuna,2026-ice-cream-remixes,/musicalbums/2026-ice-cream-remixes,260327,MaCtXQwta_E,single,JYP Entertainment,ac941c55-002e-4988-96ef-fe22e1368697
@@ -673,7 +673,7 @@ Donghae,2026-good-day-feat-jay-park-1il,/musicalbums/2026-good-day-feat-jay-park
 KEYVITUP,2026-keyvitup,/musicalbums/2026-keyvitup,260408,oEcfOzYWLSY,ep,iNKODE,30b78c12-fe91-44bc-8e58-5932c81def87
 Lisa,2026-bad-angel,/musicalbums/2026-bad-angel,260408,dKmPEhJ4wjY,single,LLOUD,39791cee-10e8-4dce-8673-18d34de15ebf
 Yue,2026-im-not-fine,/musicalbums/2026-im-not-fine,260415,BJfKLlFySQs,single,Independent,ee30971f-4e10-4b5d-9638-d0f882da691d
-Wheein,2026-adagio,/musicalbums/2026-adagio,260416,,single,With US Entertainment,e8e84761-6be5-4a44-94ae-0bb82c537ff8
+Wheein,2026-adagio,/musicalbums/2026-adagio,260416,xnwOfIiZ-zQ,single,With US Entertainment,e8e84761-6be5-4a44-94ae-0bb82c537ff8
 Donghae,2026-alive2,/musicalbums/2026-alive2,260420,,studio,ODE Entertainment,49ab6582-7d44-4f05-807d-26eb4c3a9a46
 QWER,2026-ceremony,/musicalbums/2026-ceremony,260427,,mini_album,,5416eb20-6d5e-47dc-a63e-f64ec3c53bf0
 QWER,2026-ceremony2,/musicalbums/2026-ceremony2,260427,,mini_album,3Y CORPORATION,ac1d3c52-7ef5-4910-995c-ba7a83e7c079
@@ -747,3 +747,18 @@ TVXQ!,2026-share-the-world-red-ocean-ver,/musicalbums/2026-share-the-world-red-o
 ADÉLA,2026-kgb,/musicalbums/2026-kgb,260417,,single,Capitol Records,f6224006-4be4-49dd-b3fa-cb116e7a7405
 FIRR,2026-reel,/musicalbums/2026-reel,260418,,ep,,4d58270d-b0fe-4d53-ab8b-25d2955536d3
 Billlie,2026-the-collective-soul-and-unconscious-chapter-two,/musicalbums/2026-the-collective-soul-and-unconscious-chapter-two,260506,,studio,Mystic Story,e9b19f29-f98a-4f42-bbf3-02ab0ea1466e
+Lil Moshpit,2026-annyeonghaseyo-with-yuki-chiba,/musicalbums/2026-annyeonghaseyo-with-yuki-chiba,260128,Jv0vqhWRbe8,single,Warner Music Japan / 300 Entertainment Japan,4e10b79d-96f8-422b-9517-e01ddf3f016d
+Eric Nam,2026-how-the-fire-started,/musicalbums/2026-how-the-fire-started,260303,ZNdMrUCOLqQ,single,The Eric Nam Company,f7beb035-0561-4670-a874-5aaf20294577
+Lil Moshpit,2026-annyeonghaseyo,/musicalbums/2026-annyeonghaseyo,260415,kPHG7TbAVXQ,single,Warner Music Japan / 300 Entertainment Japan,1f4c0113-99da-488a-9e67-5cea518fce94
+Sohlhee,2026-stay3,/musicalbums/2026-stay3,260415,9OXa07b_Uac,single,SALTYHOUSE PRODUCTION,ab879752-0fe7-42f2-9675-36dc2b403b70
+TopHyun,2026-black-glasses,/musicalbums/2026-black-glasses,260416,n4eYZv1QlSM,single,Ravex,2ef150e3-dd8a-423f-8664-67f4b1510436
+KIMMUSEUM,2026-march-33rd,/musicalbums/2026-march-33rd,260416,V0wcIPdbm_A,single,IHOPESEE,257cc475-e3ac-4b3e-8db5-78ddce958c4b
+Summer Cake,2026-weakness,/musicalbums/2026-weakness,260416,tP7djdhTUUE,single,SUMMER CAKE,17e42848-fe41-46c1-8219-064c5da03680
+KOALA,2026-wya-feat-double-down,/musicalbums/2026-wya-feat-double-down,260416,_wd-uFI3Njc,single,Bobblehead Music,534c98a2-f09a-4957-b0c2-aaaade876c22
+cosmosy,2026-silence-body-soul,/musicalbums/2026-silence-body-soul,260416,,single,"NTT Docomo Studio & Live, Sony Music Entertainment Korea",57bb278d-3f6d-4913-ba11-9d3869fd9151
+MAKAMAKA,2026-pages-of-us,/musicalbums/2026-pages-of-us,260416,,ep,BLUEMOON Entertainment,0e936774-762a-490e-be08-6f8118fd7a7f
+Soyou,2026-see-through,/musicalbums/2026-see-through,260416,fcFlHmkY-ZI,single,Magic Strawberry Sound,3d2e8d62-bf11-4d4e-8dad-d3c530d0d304
+Apink,2026-15th-season,/musicalbums/2026-15th-season,260419,,single,With US Entertainment,37747b6d-4136-414b-864e-bc1763e6cf6c
+CLOSE YOUR EYES,2026-overexposed,/musicalbums/2026-overexposed,260421,,single,,96db3e6f-976c-4704-af51-1f9994f8fa43
+KIIRAS,2026-ta-ta,/musicalbums/2026-ta-ta,260506,,single,,48f0e2b8-1c3b-4412-8e1e-282064655e34
+KATSEYE,2026-wild,/musicalbums/2026-wild,260814,,ep,"HYBE, Geffen Records",472e3463-a6c7-4bae-86e3-0f3a8be2ae46
