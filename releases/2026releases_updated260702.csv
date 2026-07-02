@@ -1307,7 +1307,7 @@ Sudi,2026-curse,/musicalbums/2026-curse,260616,VlLtGnr3Weg,mini_album,SUDI MUSIC
 GEMINI,2026-knight,/musicalbums/2026-knight,260618,9UHrfbT9y7A,studio,AT AREA,0baa39dc-694c-45bc-856a-d03374acaf9e
 YeoJin,2026-lv2,/musicalbums/2026-lv2,260623,Kdggz2tSGRU,single,MUMW Entertainment,f3ec9a21-4a21-4a5e-a8f5-f71f504c7cda
 Daehyun,2026-puzzlove,/musicalbums/2026-puzzlove,260630,MNFq6SJOORg,mini_album,MA Entertainment,97d8ae72-d17b-44c5-bc65-4efe7b4aa3c1
-Yoojung,2026-perfect-target,/musicalbums/2026-perfect-target,260630,,single,Swing Entertainment,7ddf54f6-f8d7-4c48-9fc2-611418371260
+Yoojung,2026-perfect-target,/musicalbums/2026-perfect-target,260630,wOWJslOeJrQ,single,Swing Entertainment,7ddf54f6-f8d7-4c48-9fc2-611418371260
 Yeonjun,2026-no-labels-part-02,/musicalbums/2026-no-labels-part-02,260710,,mini_album,BIGHIT MUSIC,92204397-638d-4cda-bce8-f11994bfd8a8
 Seo In Guk,2026-trace,/musicalbums/2026-trace,260930,,ep,Story J Company,5dc8bebf-07b4-4b80-8fcd-61df4c41f81e
 NTX,2026-go2,/musicalbums/2026-go2,260617,Ze632hNtGMc,single,Victory Company,dd79d774-3941-47a5-a385-c9c80ef427ba
@@ -1390,11 +1390,24 @@ TOMORROW X TOGETHER,2026-setsuna-hanabi,/musicalbums/2026-setsuna-hanabi,260819,
 Junseong,2026-fake-love,/musicalbums/2026-fake-love,260317,4L2qXBTWPbU,single,Maroo Entertainment,0d839fe5-eeb5-4e7c-b1c7-8841c9453f06
 Kyu,2026-focus-on-me,/musicalbums/2026-focus-on-me,260626,70oBbBRUB-I,single,NAISU Agency,c76ea9b3-e80a-4112-a090-4606e7554d11
 Taeyeon,2026-j-pop-remake-vol1,/musicalbums/2026-j-pop-remake-vol1,260629,,single,SM Entertainment,78570dc5-52e5-4386-ab71-44f45e7b7c97
-Baek A Yeon,2026-listen2,/musicalbums/2026-listen2,260629,,single,EDEN Entertainment,c548b09e-7568-4131-9516-4abcc8fdfb20
-Chuu,2026-rule-feat-heize,/musicalbums/2026-rule-feat-heize,260702,,single,"ATRP, Genie Music",fd164d5b-0d82-4bd5-ad75-a903b70dcf48
+Baek A Yeon,2026-listen2,/musicalbums/2026-listen2,260629,ClbQHNIa2PM,single,EDEN Entertainment,c548b09e-7568-4131-9516-4abcc8fdfb20
+Chuu,2026-rule-feat-heize,/musicalbums/2026-rule-feat-heize,260702,cVA96fkEcNY,single,"ATRP, Genie Music",fd164d5b-0d82-4bd5-ad75-a903b70dcf48
 DXMON,2026-hyperlink-vol3,/musicalbums/2026-hyperlink-vol3,260706,,single,H Music Entertainment,ce9931c9-44cf-497e-ab9a-169c870b549f
 SUPER JUNIOR-83z,2026-promise,/musicalbums/2026-promise,260713,,mini_album,SM Entertainment,8cd7a5ba-d852-4ef9-8653-051721b61ed7
 DAILY:DIRECTION,2026-monkey-mode,/musicalbums/2026-monkey-mode,260713,,single,ODDWAVE,7af5aec8-b111-41fd-8b4e-34e30cabd352
 Minhyuk,2026-temperature,/musicalbums/2026-temperature,260715,,single,BTOB Company,8b878100-a43d-4810-a4f3-59525ef8f58a
 StelLive,2026-cliche,/musicalbums/2026-cliche,260727,,ep,Accelers,3f2e3474-e3f3-49a2-bfae-86984881b528
 ZEROBASEONE,2026-regression-love,/musicalbums/2026-regression-love,260819,,single,WAKEONE,835fd6a1-721f-4801-a52c-13a739d8d67b
+Anna Cheng,2026-i-h8-u,/musicalbums/2026-i-h8-u,260508,QMYZdHVINJk,single,Anna Cheng Records,f16bd429-5c7d-4b2c-acfa-0b2c203c78ca
+AHOF,2026-day-1,/musicalbums/2026-day-1,260701,uu9PqGb8NMs,single,F&F Entertainment,5989308c-0f12-45d8-91c0-c45b20f01be0
+Blue.D,2026-not-perfect-love,/musicalbums/2026-not-perfect-love,260701,,ep,"EW Entertainment, ONGRAY",dd1409f4-62b1-4cd5-8103-3c7b23e82dc9
+THE FIX,2026-die-in-the-moshpit,/musicalbums/2026-die-in-the-moshpit,260701,,single,Odd venture,f64671c2-2d9e-43c2-a8ac-2e383bcf4c11
+IVE,2026-lucid-dream-taku-takahashi-remix,/musicalbums/2026-lucid-dream-taku-takahashi-remix,260701,joe-bNMjYvs,single,Starship Entertainment,7dd69f20-3dc1-4f3b-892c-ff3a2c3f0c14
+Seo In Guk,2026-see-you-at-work-tomorrow-ost-part4,/musicalbums/2026-see-you-at-work-tomorrow-ost-part4,260701,zGSQkVE_qUE,ost,"Studio Dragon, Toon Studio",db87f9ca-8a6f-4fdc-9498-f9c910fa6c1f
+Yuha,2026-teenieping-legend-of-the-whale-heartstone-special-ost-part1,/musicalbums/2026-teenieping-legend-of-the-whale-heartstone-special-ost-part1,260701,6D1ega4uLTs,ost,SM Entertainment,f08eb3cc-fbf3-433f-91ab-afe13e645f9d
+ATEEZ,2026-bad-james-carter-ver,/musicalbums/2026-bad-james-carter-ver,260702,-Gx9Y_O735E,single,KQ Entertainment,c8e62797-5e7d-4d9e-9589-bab54dc65fe3
+Jin Hyeon Jun,2026-it-was-never-a-love-meant-to-hurt,/musicalbums/2026-it-was-never-a-love-meant-to-hurt,260702,3BeeOJApWEo,single,Custom Record,16c2e8a8-28db-443b-8533-6da77118ff9b
+Choi Sung Yun,2026-blue-moon,/musicalbums/2026-blue-moon,260707,,single,OAK Company,32d45f16-fc80-4bb8-ab7f-278bb171b47f
+GIRLSET,2026-chat,/musicalbums/2026-chat,260717,,single,JYP Entertainment,462eea86-4aa4-4f4d-a2ed-93519970b3d7
+KARD,2026-where-to-now-part2-nowhere,/musicalbums/2026-where-to-now-part2-nowhere,260728,,studio,DSP Media,3987ffa7-c6e6-4cd7-9306-c16d44fcfb0a
+ALL'N,2026-dream-higher,/musicalbums/2026-dream-higher,260814,,single,SKS Entertainment,cfb064fe-a6f8-433d-9a19-6887476254ba
